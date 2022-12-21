@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import React from "react";
 import { data } from "./data";
 import { Pie, measureTextWidth } from "@ant-design/plots";

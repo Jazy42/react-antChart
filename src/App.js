@@ -1,3 +1,4 @@
+/* eslint-disable */
 import DonutPlot from "./components/Donut";
 
 function App() {
