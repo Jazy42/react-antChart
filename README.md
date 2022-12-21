@@ -2,7 +2,7 @@
 
 # Getting Started with Create React App
         *LIVE DEMO*
-    https://63a2e839c581ab6b0d6dfa35--papaya-taffy-709cf4.netlify.app/
+    (https://63a2e839c581ab6b0d6dfa35--papaya-taffy-709cf4.netlify.app/)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
